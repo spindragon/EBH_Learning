@@ -2,6 +2,12 @@ Code for "Example Based Hebbian Learning may be sufficient to support Human Inte
 Eric C. Wong
 UC San Diego
 
+These are Jupyter Lab notebooks that reproduce the examples in the above paper.
+procedural.ipynb reproduces Figure 2
+episodic.ipynb reproduces Figure 3
+associative.ipynb reproduces Figure 4
+
+
 This software is Copyright © 2019 The Regents of the University of California. All Rights Reserved.
 Permission to copy, modify, and distribute this software and its documentation for educational, 
 research and non-profit purposes, without fee, and without a written agreement is hereby granted, 
