@@ -3,8 +3,11 @@ Eric C. Wong
 UC San Diego
 
 These are Jupyter Lab notebooks that reproduce the examples in the above paper.
+
 procedural.ipynb reproduces Figure 2
+
 episodic.ipynb reproduces Figure 3
+
 associative.ipynb reproduces Figure 4
 
 
@@ -15,10 +18,15 @@ provided that the above copyright notice, this paragraph and the following three
 Permission to make commercial use of this software may be obtained by contacting:
 
 Office of Innovation and Commercialization
+
 9500 Gilman Drive, Mail Code 0910
+
 University of California
+
 La Jolla, CA 92093-0910
+
 (858) 534-5815
+
 invent@ucsd.edu
 
 This software program and documentation are copyrighted by The Regents of the University of California. 
